@@ -1,5 +1,7 @@
 data/**
+!data/.gitkeep
 
 src/archive/**
+!src/archive/.gitkeep
 
 __pycache__
